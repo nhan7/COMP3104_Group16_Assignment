@@ -1,1 +1,8 @@
-1. Location: George Brown College (GBC) is located in Toronto, Ontario, Canada. It has multiple campuses throughout the city, including the St. James Campus, Waterfront Campus, and Casa Loma Campus.
+1. Location: George Brown College (GBC) is located in Toronto, Ontario, Canada.
+   It has multiple campuses throughout the city, including the St. James Campus,
+   Waterfront Campus, and Casa Loma Campus.
+2. Diverse Student Body: GBC is known for its diverse student population, with students 
+   from over 100 countries. This diversity creates a rich and multicultural learning environment.
+3. Programs and Courses: The college offers a wide range of programs and courses in various fields,
+   including business, health sciences, hospitality, technology, and the arts. It provides both
+   diploma and degree programs to meet the educational needs of its students.
