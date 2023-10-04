@@ -1,1 +1,3 @@
 As a software engineer, knowing SDLC helps you make software that's organized and reliable.
+
+SDLC has many stages.
