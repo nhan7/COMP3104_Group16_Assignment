@@ -1,1 +1,3 @@
 Pritesh teaches the COMP3104 DevOps course.
+
+Higher DevOps performance is a byproduct of good version control
