@@ -1,0 +1,12 @@
+1. DevOps Philosophy: DevOps is not just a set of tools;
+ it's a cultural and philosophical approach to software development and IT operations.
+ It emphasizes collaboration, communication, and integration between development (Dev) and operations (Ops)
+ teams to streamline and automate processes.
+ 
+2. Continuous Integration and Continuous Deployment (CI/CD): DevOps practices promote
+   CI/CD pipelines, which automate the building, testing, and deployment of software. 
+   This enables faster and more reliable delivery of new features and updates to production environments.
+
+3. Automation: Automation is a central tenet of DevOps. It involves automating repetitive tasks, 
+   such as code deployment, configuration management, and infrastructure provisioning. 
+   Automation reduces human error, increases efficiency, and accelerates development cycles.
