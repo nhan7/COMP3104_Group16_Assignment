@@ -1,0 +1,4 @@
+1. DevOps Philosophy: DevOps is not just a set of tools;
+ it's a cultural and philosophical approach to software development and IT operations.
+ It emphasizes collaboration, communication, and integration between development (Dev) and operations (Ops)
+ teams to streamline and automate processes.
